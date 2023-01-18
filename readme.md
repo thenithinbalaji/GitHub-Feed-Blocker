@@ -14,7 +14,7 @@ A Chrome browser extension made with ❤️ and **JS** by **TheNithinBalaji**.
 
 Since uploading an extension to the chrome store costs around $5, I haven't done it (I'm broke guys). Please follow these steps to install it from a zip file.
 
-+ <a href = "https://github.com/thenithinbalaji/GitHub-Feed-Blocker/releases/download/1.0.0/padida.zip" >Click here to download the zip</a> or  <a href = "https://github.com/thenithinbalaji/GitHub-Feed-Blocker/releases/download/1.0.0/padida.rar" >Click here to download the rar</a>
++ <a href = "https://github.com/thenithinbalaji/GitHub-Feed-Blocker/releases/download/1.1.0/gfb.zip" >Click here to download the zip</a> or  <a href = "https://github.com/thenithinbalaji/GitHub-Feed-Blocker/releases/download/1.1.0/gfb.rar" >Click here to download the rar</a>
 + Extract this zip to a location and make sure not to move those files from that location, because these are the extension's files. Recommended to put it in a folder that you won't delete or move.
 + Open the Extension Management page by navigating to
   
