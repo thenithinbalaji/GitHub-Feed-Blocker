@@ -1,0 +1,20 @@
+{
+  "name": "GitHub Feed Blocker",
+  "description": "Block the feed!",
+  "version": "1.1",
+  "manifest_version": 3,
+  "content_scripts": [
+    {
+      "matches": [
+        "https://github.com/"
+      ],
+      "js": [
+        "/removal_script.js"
+      ]
+    }
+  ],
+  "icons": {
+    "64": "assets/logo.png",
+    "128": "assets/logo.png"
+  }
+}
