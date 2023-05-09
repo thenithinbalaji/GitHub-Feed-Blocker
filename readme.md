@@ -2,7 +2,7 @@
 
 Welcome to the GitHub Feed Blocker extension!
 
-This extension is designed to help you focus while using GitHub. By installing this extension, you can block out all the clutter and distractions, and see only the "**latest changes tab**" in the feed. Whether you're a busy developer or just looking to streamline your workflow, this extension will help you stay on top of your GitHub activity with ease.
+This extension is designed to help you focus while using GitHub. By installing this extension, you can block out all the clutter and distractions from the feed. Whether you're a busy developer or just looking to streamline your workflow, this extension will help you stay on top of your GitHub activity with ease.
 
 So why wait? Try it out now and see the difference for yourself!
 
@@ -14,7 +14,7 @@ A Chrome browser extension made with ❤️ and **JS** by **TheNithinBalaji**.
 
 Since uploading an extension to the chrome store costs around $5, I haven't done it (I'm broke guys). Please follow these steps to install it from a zip file.
 
-+ <a href = "https://github.com/thenithinbalaji/GitHub-Feed-Blocker/releases/download/1.1.0/gfb.zip" >Click here to download the zip</a> or  <a href = "https://github.com/thenithinbalaji/GitHub-Feed-Blocker/releases/download/1.1.0/gfb.rar" >Click here to download the rar</a>
++ <a href = "https://github.com/thenithinbalaji/GitHub-Feed-Blocker/releases/download/1.2.0/gfb.zip" >Click here to download the zip</a> or  <a href = "https://github.com/thenithinbalaji/GitHub-Feed-Blocker/releases/download/1.2.0/gfb.rar" >Click here to download the rar</a>
 + Extract this zip to a location and make sure not to move those files from that location, because these are the extension's files. Recommended to put it in a folder that you won't delete or move.
 + Open the Extension Management page by navigating to
   
